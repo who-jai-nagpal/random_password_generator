@@ -3,9 +3,7 @@
 This project generates a random strong Password of minimum 8 length and maximum 20 length.
 The use of letters,digits and symbols depends upon the user.
 
-# Live Site
 
-Click [here](https://grraghav120.github.io/Random-Password-Generator/)
 
 ## Screenshots of project
 ![image](https://user-images.githubusercontent.com/96789493/232272329-8c0b54eb-eb97-4f25-bd1d-368911d9a68b.png)
